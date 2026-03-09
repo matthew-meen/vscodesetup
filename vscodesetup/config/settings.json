@@ -54,5 +54,9 @@
   "[go]": {
     "editor.insertSpaces": false,
     "editor.tabSize": 4
-  }
+  },
+  "workbench.startupEditor": "none",
+  "gitlens.home.preview.enabled": false,
+  "gitlens.showWhatsNewAfterUpgrades": false,
+  "gitlens.advanced.skipOnboarding": true
 }
