@@ -3,7 +3,7 @@
 
   <h1>vscodesetup</h1>
 
-  <p><strong>One script. Full IntelliJ experience. Inside VSCode.</strong></p>
+  <p><strong>One script. Somewhat familiar IntelliJ experience. Inside VSCode.</strong></p>
 
   <p>
     Darcula theme · JetBrains Mono · Pylance · gopls · rust-analyzer · GitLens · SQLTools · Podman · Claude Code
@@ -12,7 +12,7 @@
 
 ---
 
-Migrated off a JetBrains licence and don't want to lose a week reconfiguring your editor? This script does everything in one shot — theme, fonts, language servers, debuggers, AI tooling, Git, databases, containers — tuned to match what IntelliJ does out of the box.
+Migrated off a JetBrains licence and don't want to lose a week reconfiguring your editor? This script does ~~everything~~ a bunch of _things_ in one shot — theme, fonts, language servers, debuggers, AI tooling, Git, databases, containers.
 
 ## Quick start
 
