@@ -1,0 +1,40 @@
+# Theme & UI
+rokoroku.vscode-theme-darcula
+pkief.material-icon-theme
+
+# Languages
+ms-python.python
+ms-python.pylance
+golang.go
+rust-lang.rust-analyzer
+tamasfe.even-better-toml
+
+# Debugging & Profiling
+ms-python.debugpy
+p403n1x87.austin-vscode
+vadimcn.vscode-lldb
+
+# Git
+eamodio.gitlens
+mhutchie.git-graph
+
+# Database
+mtxr.sqltools
+mtxr.sqltools-driver-pg
+mtxr.sqltools-driver-mysql
+mtxr.sqltools-driver-sqlite
+
+# Containers
+ms-azuretools.vscode-docker
+
+# AI
+anthropic.claude-code
+
+# Editor UX
+usernamehw.errorlens
+christian-kohler.path-intellisense
+gruntfuggly.todo-tree
+editorconfig.editorconfig
+mikestead.dotenv
+bierner.markdown-mermaid
+redhat.vscode-yaml

@@ -1,0 +1,2 @@
+# Python dependencies for setup.py
+# Currently uses stdlib only; add packages here if needed in future.
