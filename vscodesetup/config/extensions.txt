@@ -4,7 +4,6 @@ pkief.material-icon-theme
 
 # Languages
 ms-python.python
-ms-python.pylance
 golang.go
 rust-lang.rust-analyzer
 tamasfe.even-better-toml
